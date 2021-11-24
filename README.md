@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedmubashirahmed
-- 👀 I’m interested in Fullstack web developer..
+- 👀 I’m interested in languages ftamework industries.
 - 🌱 I’m currently learning IBM Fullstack web developer course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
